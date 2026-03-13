@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cd E:/git/riskscorer-api && python -m pytest tests/ -v 2>&1)",
-      "Bash(cd E:/git/riskscorer-api && python -m pytest tests/test_trainer.py -v 2>&1)"
-    ]
-  }
-}
